@@ -2,6 +2,9 @@
 
 int main()
 {
-printf("helloworld");
+print();
 return 0;
+}
+void print(){
+printf("This is modified from another acoount");
 }
